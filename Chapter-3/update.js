@@ -14,4 +14,9 @@ myArray.splice(1, 1);
 
 console.log(myArray);
 
-console.log(myArray[2]);
+
+
+ myArray.unshift("Srimathi");
+
+  
+console.log(myArray);
